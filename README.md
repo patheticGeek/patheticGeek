@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **geekpathetic@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing](https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing)
+- 📄 Know about my experiences [My Portfolio](https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing)
 
 - ⚡ Fun fact **I absolutely hate windows**
 
