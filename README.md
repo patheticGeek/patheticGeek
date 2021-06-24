@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, Python**
 
-- 👯 I’m looking to collaborate on [torrent-aio-bot](https://github.com/patheticGeek/torrent-aio-bot)
+- 👯 I’m looking to collaborate on **anything interesting enough**
 
 - 💬 Ask me about **MERN Stack, React Native, Flutter, Android dev, VS Code**
 
@@ -12,6 +12,10 @@
 - 📄 Know about my experiences [My Portfolio](https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing)
 
 - ⚡ Fun fact **I absolutely hate windows**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patheticGeek&theme=github_dark" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
