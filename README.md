@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathetic Geek</h1>
 <h3 align="center">I can see bugs in your code but not my crush's hints</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails, Python**
+- 🌱 I’m currently learning **a bit too much to update this section daily**
 
 - 👯 I’m looking to collaborate on **anything interesting enough**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **geekpathetic@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing)
+- 📄 Know about my experiences [My LinkedIn](https://www.linkedin.com/in/pathetic-geek/)
 
 - ⚡ Fun fact **I absolutely hate windows**
 
