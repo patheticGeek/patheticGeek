@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathetic Geek</h1>
 <h3 align="center">I can see bugs in your code but not my crush's hints</h3>
 
-- 🌱 I’m currently learning **a bit too much to update this section daily**
-
 - 👯 I’m looking to collaborate on **anything interesting enough**
-
-- 💬 Ask me about **MERN Stack, React Native, Flutter, Android dev, VS Code**
 
 - 📫 How to reach me **geekpathetic@gmail.com**
 
