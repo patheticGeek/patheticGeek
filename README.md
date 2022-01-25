@@ -1,6 +1,3 @@
-<h3 align="center">
-  I can see bugs in your code but not my crush's hints
-</h3>
 
 <p align="center">
   <a href="https://twitter.com/pathetic_geek" target="blank">
