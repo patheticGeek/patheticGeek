@@ -19,4 +19,8 @@
   <a href="https://dev.to/patheticgeek" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="patheticgeek" />
   </a>
+
+  <a href="https://drive.google.com/file/d/1ejzXnBOe21Irx8sMquftTHbCemj7sXMN/view?usp=sharing" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Resume-3C1742?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="patheticgeek" />
+  </a>
 </p>
