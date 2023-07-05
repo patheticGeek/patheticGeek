@@ -1,6 +1,10 @@
 <p align="center">Hey there 👋</p>
 
 <p align="center">
+  <a href="https://pathetcigeek.dev" target="blank">https://pathetcigeek.dev/</a>
+</p>
+
+<p align="center">
   <a href="https://twitter.com/pathetic_geek" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pathetic_geek" />
   </a>
@@ -15,8 +19,5 @@
   </a>
   <a href="https://dev.to/patheticgeek" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="patheticgeek" />
-  </a>
-  <a href="https://patheticgeek.dev/resume" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Resume-3C1742?style=for-the-badge&logo=LibreOffice&logoColor=white" alt="Geek's Resume" />
   </a>
 </p>
