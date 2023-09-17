@@ -1,7 +1,7 @@
 <p align="center">Hey there 👋</p>
 
 <p align="center">
-  <a href="https://pathetcigeek.dev" target="blank">https://pathetcigeek.dev/</a>
+  <a href="https://pathetcigeek.dev" target="blank">https://patheticgeek.dev/</a>
 </p>
 
 <p align="center">
